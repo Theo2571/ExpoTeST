@@ -8,3 +8,4 @@ export const LESSONS_DATA: Lesson[] = [
   { id: 5, title: 'Финальный тест', status: 'locked' },
 ];
 
+

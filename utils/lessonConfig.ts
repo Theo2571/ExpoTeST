@@ -50,3 +50,4 @@ export const LESSON_STYLE_CONFIG: Record<LessonStatus, LessonStyleConfig> = {
   },
 };
 
+
